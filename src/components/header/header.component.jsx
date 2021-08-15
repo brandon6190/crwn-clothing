@@ -12,6 +12,7 @@ const Header = () => (
         <nav class='options'>
             <Link className='option' to='/shop'>SHOP</Link>
             <Link className='option' to='/contact'>CONTACT</Link>
+            <Link className='option' to='/signin'>SIGN IN</Link>
         </nav>
     </header>
 );
